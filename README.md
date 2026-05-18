@@ -177,7 +177,7 @@ Growth potential exists in this segment to maximize the company's profitability
 
 **6. Profitability analysis over the years**
 
--2024
+- 2024
 
 | Platform        | Year | avg_roas | avg_cpc | avg_cpa |
 |-----------------|------|----------|---------|---------|                 
@@ -188,7 +188,7 @@ Growth potential exists in this segment to maximize the company's profitability
 | Facebook Ads    | 2024 | 12.57    | 0.34    | 6.95    |
 | Email Marketing | 2024 | 6.05     | 0.92    | 17.94   |   
 
--2025
+- 2025
 
 | Platform        | Year | Avg_roas | Avg_cpc | Avg_cpa |
 |-----------------|------|----------|---------|---------|
