@@ -188,7 +188,7 @@ Growth potential exists in this segment to maximize the company's profitability
 | Facebook Ads    | 2024 | 12.57    | 0.34    | 6.95    |
 | Email Marketing | 2024 | 6.05     | 0.92    | 17.94   |   
 
-- 2025
+-2025
 
 | Platform        | Year | Avg_roas | Avg_cpc | Avg_cpa |
 |-----------------|------|----------|---------|---------|
@@ -207,5 +207,5 @@ Growth potential exists in this segment to maximize the company's profitability
 - Facebook Ads declined from 12.6X to 9.9X due to the raise of cost per acquisition(6.9->9.8) 
 highlighting inefficiency in new customer tagging.
 
-- Email Marketing is the outlier, it ROAS dropped dramatically from 6.1 to 4.8, raising questions about list quality 
+- Email Marketing is the outlier,it ROAS dropped dramatically from 6.1 to 4.8, raising questions about list quality 
 or campaign relevance.
