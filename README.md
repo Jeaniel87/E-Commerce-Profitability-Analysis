@@ -91,7 +91,7 @@ quality, mismatched customer expectations, or fulfillment errors.
 
 
   
-3. Profitability by product category
+**3. Profitability by product category**
  
 | Primary_category    | Return_count | Return_rate | Revenue_lost | Avg_shipping_cost | Avg_discount | Profit_margin |
 |---------------------|--------------|-------------|--------------|-------------------|---------------|---------------|
