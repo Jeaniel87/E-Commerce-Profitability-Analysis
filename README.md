@@ -43,7 +43,7 @@ Three Datasets have been provided: `Order-level transactions`, `Product Catalog`
    
 | total_orders | total_costs | total_revenue | total_net_revenue | total_profit | profit_margin | revenue_lost |
 |--------------|-------------|---------------|-------------------|--------------|---------------|--------------|
-| 2000         |$ 179984.54   |$ 277969.13     | $236318.37         | $56333.83     | 0.24          | $20582.45     |
+| 2000         |$179984.54   |$ 277969.13     | $236318.37         | $56333.83     | 0.24          | $20582.45     |
 
 
 
