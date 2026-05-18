@@ -24,14 +24,14 @@ Three Datasets have been provided: `Order-level transactions`, `Product Catalog`
 ------------------------------------------------------------------------------------------------------------------------------------------
 ## Data Preparation and SQL Analysis
 
- 1. **Data Cleaning**
+** 1. Data Cleaning**
 - Checked for any data quality issues (null, duplicate values)
   
 - Verified that order-level costs add up correctly (product + shipping + fees = Total Costs)
   
  ✅ Result: *No data quality issues found*
 
-2. **Business Metrics and KPI development**
+**2. Business Metrics and KPI development**
 
 - Run SQL aggregation functions (sum, AVG, Count, Case statement) to compute actionable insights that can help the BrightCard online retail store.
 
@@ -125,9 +125,17 @@ quality, mismatched customer expectations, or fulfillment errors.
 
 - Books represent the weakest product category with 11.94% as a margin, suggesting a limited item price compared to high fulfillment costs.
 
+**4. Profit analysis by Channel**
 
 
+| Channel         | Total_orders | Total_costs | Total_net_revenue | Total_profit | Profit_margin | Revenue_lost | Return_rate | Average_order_value | Platform_fee |
+|-----------------|--------------|-------------|-------------------|--------------|---------------|--------------|-------------|---------------------|--------------|
+| Mobile App      | 589          | $50,500.09  | $71,893.39        | $21,393.30   | 0.3           | $5,324.17    | 7.30%       | $140.45             | 0            |
+| Website         | 795          | $67,872.09  | $92,990.55        | $25,118.46   | 0.27          | $9,383.68    | 7.04%       | $139.83             | 0            |
+| Social Commerce | 197          | $18,558.83  | $21,929.37        | $3,370.54    | 0.15          | $2,381.65    | 9.14%       | $134.25             | $1,944.93    |
+| Marketplace     | 419          | $43,053.53  | $49,505.06        | $6,451.53    | 0.13          | $3,492.95    | 6.44%       | $137.55             | $7,949.69    |
 
+`Top performing channel `: Mobile App, Website
 
-
+`low performing channel`: Social Commerce, Marketplace
 
