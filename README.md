@@ -24,7 +24,7 @@ Three Datasets have been provided: `Order-level transactions`, `Product Catalog`
 ------------------------------------------------------------------------------------------------------------------------------------------
 ## Data Preparation and SQL Analysis
 
-** 1. Data Cleaning**
+**1. Data Cleaning**
 - Checked for any data quality issues (null, duplicate values)
   
 - Verified that order-level costs add up correctly (product + shipping + fees = Total Costs)
