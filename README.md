@@ -139,3 +139,73 @@ quality, mismatched customer expectations, or fulfillment errors.
 
 `low performing channel`: Social Commerce, Marketplace
 
+- Mobile app has the highest net profit margin (30%) despite fewer orders than Website. This indicates loyal, high-intent users. A qualified candidate for increased investment in growth focus.
+
+- Website showed the highest profit (25k) driven by volume (795 orders); however, it also records the largest revenue lost ($9.4k)
+	suggesting exposure to high returns or discounted prices.
+
+- Marketplace is the weakest margin channel (13%), suggesting that high platform fees can erode profitability.
+
+- Social commerce is the smallest channel by orders (197) with lower profit ($3.4). The high return rate (9%), combined with the channel fee reduce the profit margin.
+
+
+**5. Marketing ROAS Analysis**
+
+
+| Platform        | Total_spend | Spend_pct | Total_revenue | Revenue_pct | Total_cost_perclick | Total_cost_per_acquisition | Avg_roas |
+|-----------------|-------------|-----------|---------------|-------------|---------------------|----------------------------|----------|
+| TikTok Ads      | $57,229.22  | 11.37%    | $1,374,627.17 | 16.87%      | 0.16                | 3.93                       | 24.44    |
+| Influencer      | $97,663.12  | 19.40%    | $2,216,974.27 | 27.21%      | 0.19                | 4.80                       | 23.45    |
+| Instagram Ads   | $65,154.02  | 12.94%    | $1,024,639.06 | 12.58%      | 0.23                | 5.55                       | 16.99    |
+| Google Ads      | $152,546.48 | 30.30%    | $2,194,120.82 | 26.93%      | 0.29                | 6.48                       | 13.69    |
+| Facebook Ads    | $106,451.93 | 21.14%    | $1,218,572.43 | 14.96%      | 0.36                | 8.38                       | 11.25    |
+| Email Marketing | $24,461.37  | 4.86%     | $117,681.45   | 1.44%       | 1.09                | 26.01                      | 5.41     |
+
+
+`Top performing platform`: TikTok Ads, Influencer
+
+`Moderate performing platform`: Instagram, Google Ads, Facebook
+
+`Underperforming Platform`: Email Marketing
+
+- Across all platforms, TikTok Ads is the top performer with 24x as ROAS, while the budget allowed is 11.37%.
+Growth potential exists in this segment to maximize the company's profitability
+
+-Influencer follows with 23x, meaning $23 for $1 spent with 27% as revenue contribution, suggesting a potential candidate for increased investment and growth focus.
+
+- Email marketing is struggling with only 5.4x as ROAS due to the high total cost per acquisition ($26), which directly reduces profitability. Requires a cost audit to determine if the platform is viable long-term.
+
+**6. Profitability analysis over the years**
+
+-2024
+
+| Platform        | Year | avg_roas | avg_cpc | avg_cpa |
+|-----------------|------|----------|---------|---------|                 
+| Influencer      | 2024 | 22.50    | 0.17    | 4.36    |
+| TikTok Ads      | 2024 | 22.28    | 0.17    | 4.57    |
+| Instagram Ads   | 2024 | 19.19    | 0.20    | 4.65    |
+| Google Ads      | 2024 | 15.49    | 0.30    | 5.43    |
+| Facebook Ads    | 2024 | 12.57    | 0.34    | 6.95    |
+| Email Marketing | 2024 | 6.05     | 0.92    | 17.94   |   
+
+- 2025
+
+| Platform        | Year | Avg_roas | Avg_cpc | Avg_cpa |
+|-----------------|------|----------|---------|---------|
+| TikTok Ads      | 2025 | 26.59    | 0.15    | 3.29    |
+| Influencer      | 2025 | 24.40    | 0.20    | 5.23    |
+| Instagram Ads   | 2025 | 14.79    | 0.25    | 6.44    |
+| Google Ads      | 2025 | 11.89    | 0.27    | 7.53    |
+| Facebook Ads    | 2025 | 9.94     | 0.38    | 9.82    |
+| Email Marketing | 2025 | 4.76     | 1.27    | 34.09   |
+
+
+- TikTok Ads showed the strongest growth, jumping from 22.3X ROAS in 2024 to 26.6X ROAS in 2025, signaling improved ad efficiency and audience engagement.
+
+- Influencer marketing remained consistently strong (22.5X->24.4X), confirming it as a reliable channel.
+
+- Facebook Ads declined from 12.6X to 9.9X due to the raise of cost per acquisition(6.9->9.8) 
+highlighting inefficiency in new customer tagging.
+
+- Email Marketing is the outlier, it ROAS dropped dramatically from 6.1 to 4.8, raising questions about list quality 
+or campaign relevance.
