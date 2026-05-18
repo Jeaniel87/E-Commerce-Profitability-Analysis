@@ -93,17 +93,16 @@ quality, mismatched customer expectations, or fulfillment errors.
   
 3. Profitability by product category
  
-| Primary_category    | Return_count | Return_rate | Revenue_lost |Avg_shipping_cost | Avg_discounts | Profit_margin |
-|---------------------|--------------|-------------|--------------|-------------------|---------------|-------------------|
-| Electronics         | 23           | 8.61%       | $4078.27      | $26.74             | $14.65         | $31.13             |
-| Food & Beverage     | 14           | 5.67%       | $3504.56      | $26.08             | $10.98         | $24.76             |
-| Clothing            | 24           | 8.19%       | $3209.21      | $25.41             | $9.98          | $19.99             |
-| Toys                | 18           | 7%          |$2469.81      | $26.23             | $11.73         | $26.15             |
-| Home & Kitchen      | 12           | 6%          |$2340.1       | $24.94             |$10.90         | $25.37             |
-| Books               | 20           | 8.37%       |$2106.36      | $26.20             | $6.11          | $11.94             |
-| Sports              | 21           | 7.19%       |$2008.44      | $23.68             | $10.67         | $23.5              |
-| Beauty              | 12           | 5.85%       |$865.7        | $25.23             | $8.54          | $17.39             |
-
+| Primary_category    | Return_count | Return_rate | Revenue_lost | Avg_shipping_cost | Avg_discount | Profit_margin |
+|---------------------|--------------|-------------|--------------|-------------------|---------------|---------------|
+| Electronics         | 23           | 8.61%       | 4078.27      | $26.74            | $14.65        | $31.13        |
+| Toys                | 18           | 7%          | 2469.81      | $26.23            | $11.73        | $26.15        |
+| Home & Kitchen      | 12           | 6%          | 2340.1       | $24.94            | $10.90        | $25.37        |
+| Food & Beverage     | 14           | 5.67%       | 3504.56      | $26.08            | $10.98        | $24.76        |
+| Sports              | 21           | 7.19%       | 2008.44      | $23.68            | $10.67        | $23.50        |
+| Clothing            | 24           | 8.19%       | 3209.21      | $25.41            | $9.98         | $19.99        |
+| Beauty              | 12           | 5.85%       | 865.7        | $25.23            | $8.54         | $17.39        |
+| Books               | 20           | 8.37%       | 2106.36      | $26.20            | $6.11         | $11.94        |
 
    
 `High performing Categories`: Electronics  (31.13%), Toys (26,15%), Home & Kitchen (25.15%).
