@@ -1,7 +1,7 @@
-☀️## E-Commerce-Profitability-Analysis
+☀️ E-Commerce-Profitability-Analysis
 -------------------------------------
 
-🚀 # Project Description
+🚀 Project Description
 -------------------------
 BrightCart is an online retailer that sells products across eight categories through its website, mobile app, third-party marketplaces, and social commerce platforms. The company did $1M+ in gross revenue over the past two years, but net margins have been shrinking.
 The CEO wants to know which product categories and sales channels are truly profitable after accounting for all costs, which marketing platforms are delivering the best return on ad spend, and whether the return rate is eroding margins.
