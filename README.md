@@ -242,7 +242,7 @@ Total Marketing spend is $503,506. A 20% cut ($100,701) will target the underper
 - BrighCard should increase TikTok Ads spend by 5.32%, Influencer by 3.52%, and Instagram by 2.41% while 
 reducing Google Ads by 6.06%, Facebook Ads by 4.32%, and Email Marketing by 0.87% to increase his revenue by 8%.
 
-# Recommendation
+## Recommendation
 
 - Mobile App and Website are the highest margin channels with strong conversion. Prioritise user acquisition and retention here.
   
