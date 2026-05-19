@@ -207,5 +207,46 @@ Growth potential exists in this segment to maximize the company's profitability
 - Facebook Ads declined from 12.6X to 9.9X due to the raise of cost per acquisition(6.9->9.8) 
 highlighting inefficiency in new customer tagging.
 
-- Email Marketing is the outlier,it ROAS dropped dramatically from 6.1 to 4.8, raising questions about list quality 
+- Email Marketing is the outlier, it ROAS dropped dramatically from 6.1 to 4.8, raising questions about list quality 
 or campaign relevance.
+
+**7. 20% cut Budget analysis**
+
+Total Marketing spend is $503,506. A 20% cut ($100,701) will target the underperforming platforms (Email Marketing, Facebook Ads, and Google Ads) without touching TikTok, Influencer, and Instagram. The strategy focuses investment on the three highest-performing platforms while trimming spending from channels where returns are demonstrably weaker.
+
+- Plan without budget cut
+  
+| platform        | Total_spend | Spend_pct | Avg_roas | Total_revenue   |
+|-----------------|-------------|-----------|----------|-----------------|
+| TikTok Ads      | $57,229.22  | 11.37%    | 24.44    |  $1,374,627.17  |
+| Influencer      | $97,663.12  | 19.40%    | 23.45    |  $2,216,974.27  |
+| Instagram Ads   | $65,154.02  | 12.94%    | 16.99    |  $1,024,639.06  |
+| Google Ads      | $152,546.48 | 30.30%    | 13.69    |  $2,194,120.82  |
+| Facebook Ads    | $106,451.93 | 21.14%    | 11.25    |  $1,218,572.43  |
+| Email Marketing | $24,461.37  | 4.86%     | 5.41     |  $117,681.45    |
+| Total           | $503,506.14 |  100%     |          |  $8,146,615.20  |
+
+
+- Recommended Plan
+
+| Platform        | Total spend | Spend pct | ROAS  | Revenue generated |
+|-----------------|-------------|-----------|-------|-------------------|
+| TikTok Ads      | $84,065.31  | 16.69%    | 24.44 | $2,054,170.78     |
+| Influencer      | $115,403.54 | 22.92%    | 23.45 | $2,705,828.26     |
+| Instagram Ads   | $77,298.22  | 15.35%    | 16.99 | $1,313,296.71     |
+| Google Ads      | $122,049.92 | 24.24%    | 13.69 | $1,670,710.77     |
+| Facebook Ads    | $85,152.98  | 16.91%    | 11.25 | $958,361.25       |
+| Email Marketing | $19,576.32  | 3.89%     | 5.41  | $105,818.17       |
+| Total           | $503,546.28 | 100%      |       | $8,808,185.94     |
+
+- BrighCard should increase TikTok Ads spend by 5.32%, Influencer by 3.52%, and Instagram by 2.41% while 
+reducing Google Ads by 6.06%, Facebook Ads by 4.32%, and Email Marketing by 0.87% to increase his revenue by 8%.
+
+# RECOMMENDATION
+
+- Mobile App and Website are the highest margin channels with strong conversion. Prioritise user acquisition and retention here.
+  
+- Audit return rates, discount policies to minimize impact on profit ( ex: Negociate shipping rate discounts with logistics partners)
+
+- TikTok, influencers are the most profitable platforms with high ROAS. Reallocate budget from Email Marketing, Google Ads, Facebook Ads
+  toward TikTok and Influencer campaigns where returns are strongest.
