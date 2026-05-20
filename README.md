@@ -210,7 +210,7 @@ highlighting inefficiency in new customer tagging.
 - Email Marketing is the outlier, it ROAS dropped dramatically from 6.1 to 4.8, raising questions about list quality 
 or campaign relevance.
 
-**7. 20% cut Budget analysis**
+**7. 20% Budget cut analysis**
 
 Total Marketing spend is $503,506. A 20% cut ($100,701) will target the underperforming platforms (Email Marketing, Facebook Ads, and Google Ads) without touching TikTok, Influencer, and Instagram. The strategy focuses investment on the three highest-performing platforms while trimming spending from channels where returns are demonstrably weaker.
 
