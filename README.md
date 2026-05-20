@@ -252,6 +252,8 @@ reducing Google Ads by 6.06%, Facebook Ads by 4.32%, and Email Marketing by 0.87
   toward TikTok and Influencer campaigns where returns are strongest.
 
 
-## Tools: SQL, Excel
+## Tools: 
+- SQL
+- Excel
 
 
