@@ -33,7 +33,7 @@ Three Datasets have been provided: `Order-level transactions`, `Product Catalog`
 
 **2. Business Metrics and KPI development**
 
-- Run SQL aggregation functions (sum, AVG, Count, Case statement) to compute actionable insights that can help the BrightCard online retail store.
+- Run SQL aggregation functions (sum, AVG, Count) to compute actionable insights that can help the BrightCard online retail store.
 
 ## Results
 
